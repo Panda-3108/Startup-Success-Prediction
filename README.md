@@ -137,9 +137,7 @@ This project helped me understand:
 ---
 
 ## 👨‍💻 Author
-Salman Afridi
-If you found this project helpful, feel free to ⭐ star this repository
 
-**Shifa Fathima**
+**Salman Afridi**
 
 If you found this project helpful, feel free to ⭐ star this repository!
